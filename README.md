@@ -1,3 +1,5 @@
 ## DOCUMENTOS
 
-Qué debiera estar acá?
+### TO DO
+|--what--|--now--|--den--|
+|--UK dough--|--wrote to Vlad--|--cash in Aug2026--|
