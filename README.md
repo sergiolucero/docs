@@ -7,3 +7,8 @@
 |FUNDS|Gemini ask|postular|
 |Clouds!|Google restart|AWS!|
 ||||
+
+## Clouds
+|service|status|test|
+|----|---|---|
+|AWS|cant login to pay|S3+ssh OK|
